@@ -2,6 +2,13 @@
 
 A Sample Node.js + TypeScript Project for Telegram Bot Developers
 
+# Table of Contents
+
+- [node-ts-telegram-bot](#node-ts-telegram-bot)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Scripts](#scripts)
+
 # Installation
 
 You need [pnpm](https://pnpm.io/) to install the node_modules (the dependencies of project):
